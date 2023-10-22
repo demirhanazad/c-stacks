@@ -1,5 +1,6 @@
 // BİSMİLLAHİRRAHMANİRRAHİM
-// Demirhan Adıgüzel'in C Ders Ödevi
+// Demirhan Adıgüzel
+// Kendini Geliştirmek İsteyenlere Bu Satır Ve Önceki Satırlara Dokunmamak Üzere Yığın Örneği 
 #include <stdio.h>
 #include <cstdlib>
 #include <string.h>
